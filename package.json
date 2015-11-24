@@ -1,0 +1,22 @@
+{
+  "name": "npm_generator",
+  "description": "Scaffolding tool for npm packages",
+  "version": "1.0.0",
+  "author": "{ AUTHOR }",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:{ NAME }/{ PROJECT }"
+  },
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0"
+  }
+}
