@@ -1,17 +1,17 @@
 {
-  "name": "npm_generator",
-  "description": "Scaffolding tool for npm packages",
-  "version": "1.0.0",
-  "author": "{ AUTHOR }",
+  "name": "npm-generator",
+  "description": "CLI for scaffolding npm packages",
+  "version": "0.1.0",
+  "author": "thelostspore <thelostspore@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:{ NAME }/{ PROJECT }"
+    "url": "git@github.com:thelostspore/npm-generator.git"
   },
   "main": "index.js",
   "scripts": {
     "main": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["npm generator", "generate npms", "package generator"],
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",

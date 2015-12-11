@@ -1,6 +1,4 @@
-# Title
-- Description
+[![Build Status](https://travis-ci.org/thelostspore/npm-generator.svg?branch=master)](https://travis-ci.org/thelostspore/npm-generator)
 
-## Instructions
-
-## Structure
+# npm-generator
+- CLI for scaffolding npm packages

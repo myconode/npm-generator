@@ -1,9 +1,18 @@
+# By default, ignore all dot files
 .*
-!.gitignore
 
+# Allowed dot files
+!.gitignore
+!.travis.yml
+
+# Node
 node_modules/
+
+# Log
 debug/
 log/
-build/
-
 .log
+
+# Build
+build/
+.zip
